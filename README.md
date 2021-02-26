@@ -7,6 +7,7 @@
 - NumPy
 - Imbalanced-learn
 - Kafka
+- Cassandra (haven't uploaded that part)
 
 ### Files:
 - backend.py does actual inference and returns prediction over kafka topic.
@@ -29,7 +30,6 @@
 - I haven't included model training script, contact me over email if you need.
 
 ### Upgrades:
-- Using database like Cassandra or MongoDB for storing main database and prediction database.
-- Using docker for backend.
+- Containerizing backend in docker.
 
 PS- Will make a tutorial blog soon..
