@@ -31,3 +31,5 @@
 ### Upgrades:
 - Using database like Cassandra or MongoDB for storing main database and prediction database.
 - Using docker for backend.
+
+PS- Will make a tutorial blog soon..
